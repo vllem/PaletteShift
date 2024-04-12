@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stb_image.h": "c",
+        "bitset": "c",
+        "algorithm": "c",
+        "__bit_reference": "c",
+        "unordered_map": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
